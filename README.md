@@ -93,6 +93,23 @@ Prediction made
 Due to the procedural nature of this project, the program is not modularized. A user simply needs to run the program step by step to get any result of choice.
 </p>
 
+## Result
+<p align="justify">
+From the machine learning metrics evaluations carried out, it shows that the RandomForestCalssifier model has the highest prediction accuracy, followed by DecisionTreeClassifier model, then the LogisticRegression model and lastly the LinearRegression model. Please see below.
+  
+![image](https://user-images.githubusercontent.com/44449730/158571016-9d74195e-ded1-4187-8316-f5801da4366c.png)<br>
+Random forest result
+  
+![image](https://user-images.githubusercontent.com/44449730/158571408-a561f7bd-a645-4e46-b689-83471412452d.png)<br>
+Decision tree result
+  
+![image](https://user-images.githubusercontent.com/44449730/158571531-cf3b011c-c119-4cc7-aaf6-071f66bf6571.png)<br>
+Logistic regression result
+  
+![image](https://user-images.githubusercontent.com/44449730/158571650-ac9f265d-cb86-464b-93bd-c0fb0952ecbf.png)<br>
+Linear regression result
+</p>
+
 ## Summary
 <p align="justify">
 The 3 datasets were therefore successfully prepared for machine learning operations. The data preprocessing was indeed a great deal of task and so took more than half of the required work in this work. At the end, certain machine learning metrics were successfully evaluated for the models of the work. Different machine learning algorithms were also  used to test their level of accuracy in making predictions with the final data. A simple prediction was demonstrated to show the likely behaviour of customers chosen from a certain group with certain criteria and the model performed well.
