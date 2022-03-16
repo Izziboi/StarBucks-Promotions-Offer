@@ -117,7 +117,7 @@ The 3 datasets were therefore successfully prepared for machine learning operati
 
 ## Conclusion
 <p align="justify">
-This is my implementation of the solution of estimating the behaviour of Star Bucks customers towards promotional offers. There could be a different implementation and estimations. Therefore, whatever anyone can add or suggest to make the work more encompassing is highly welcome. Meanwhile, for a more detailed report of this work, please feel free to visit the blog post on 
+This is my implementation of the solution of estimating the behaviour of Star Bucks customers towards promotional offers. There could be a different implementation and estimations. Therefore, whatever anyone can add or suggest to make the work more encompassing is highly welcome. Meanwhile, for a more detailed report of this work, please feel free to visit the blog post on https://medium.com/@israeletu/capstone-project-on-data-science-nanodegree-program-star-bucks-promotional-offers-18f1dde8a773.
 </p>
 
 ## Acknowledgements
