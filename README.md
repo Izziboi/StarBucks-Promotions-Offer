@@ -42,6 +42,7 @@ The work was organized using the following files:
 
 ## Methodology
 <p align="justify">
+  
 - **Exploratory Data Analysis:** The data in the 3 databases were explored and the necessary statistical information about them were fetched.
   
 ![image](https://user-images.githubusercontent.com/44449730/158555409-d1fbc50e-1406-40f8-8917-1ab5af41c029.png)<br>
@@ -79,7 +80,7 @@ Dummies created for events and data frames merged
     
 - **Metrics Calculation:** Some metrics were employed to calculate parameters such as accuracy score, F1 score and recall.
   
-![image](https://user-images.githubusercontent.com/44449730/158564096-0e6fd457-7030-45ac-9ebb-7d8783e3c5e9.png)<br>
+![image](https://user-images.githubusercontent.com/44449730/158815466-0423c125-268d-409d-b930-b29e65c09c71.png)<br>
 Metrics calculated
   
 - **Demonstration:** Two of the models were used to make a prediction on the behaviour of a certain group of customers to the promorional offers, given certain channels of release of the offers.
@@ -97,16 +98,16 @@ Due to the procedural nature of this project, the program is not modularized. A 
 <p align="justify">
 From the machine learning metrics evaluations carried out, it shows that the RandomForestCalssifier model has the highest prediction accuracy, followed by DecisionTreeClassifier model, then the LogisticRegression model and lastly the LinearRegression model. Please see below.
   
-![image](https://user-images.githubusercontent.com/44449730/158571016-9d74195e-ded1-4187-8316-f5801da4366c.png)<br>
+![image](https://user-images.githubusercontent.com/44449730/158815689-f07051c1-76f7-4630-819b-6c8e14ead127.png)<br>
 Random forest result
   
-![image](https://user-images.githubusercontent.com/44449730/158571408-a561f7bd-a645-4e46-b689-83471412452d.png)<br>
+![image](https://user-images.githubusercontent.com/44449730/158815820-32671b36-d08a-4632-ad0d-bd5465b2da60.png)<br>
 Decision tree result
   
-![image](https://user-images.githubusercontent.com/44449730/158571531-cf3b011c-c119-4cc7-aaf6-071f66bf6571.png)<br>
+![image](https://user-images.githubusercontent.com/44449730/158815937-6113ef91-2f2a-4a72-88af-e8a4aa3914a4.png)<br>
 Logistic regression result
   
-![image](https://user-images.githubusercontent.com/44449730/158571650-ac9f265d-cb86-464b-93bd-c0fb0952ecbf.png)<br>
+![image](https://user-images.githubusercontent.com/44449730/158816048-50c22238-6658-4483-977e-afaf92ea26e8.png)<br>
 Linear regression result
 </p>
 
