@@ -138,3 +138,4 @@ I would like to end by thanking Mosh Hamedani. He is my first python teacher and
 5. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
 6. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
 7. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler
+8. https://muthu.co/understanding-the-classification-report-in-sklearn/#:~:text=A%20Classification%20report%20is%20used,classification%20report%20as%20shown%20below
