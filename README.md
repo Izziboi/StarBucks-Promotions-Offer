@@ -1,11 +1,10 @@
-<h1><p align="center">Capstone Project on Data Science Nanodegree</p></h1>
 <h1><p align="center">Starbucks Promotional Offers</p></h1>
 <h3><p align="center">Israel Agwu Etu</p></h1>
 <h3><p align="center">March 2022</p></h1>
 
 ## Introduction
 <p align="justify">
-This is the Capstone Project of the Udacity Nanodegree Program. In this project, the benaviour of Starbucks customers towards the company's promotional offers is to be analyzed. The company sends informational about her promotional offers from time to time. These offers can come in the form of Buy One Get One free (BOGO), discount after buying goos worth a certain amount or informational, just to pass some information to customers to encourage them to test some products. The offers can be sent out through different media such as email, mobile device, web and social media. This project aims at studying how customers of different ages, genders and income level respond to different promotional offers from different information media. The yardstick is whether they view the offer or they view and also respond accordingly.
+In this project, the benaviour of Starbucks customers towards the company's promotional offers is to be analyzed. The company sends informational about her promotional offers from time to time. These offers can come in the form of Buy One Get One free (BOGO), discount after buying goos worth a certain amount or informational, just to pass some information to customers to encourage them to test some products. The offers can be sent out through different media such as email, mobile device, web and social media. This project aims at studying how customers of different ages, genders and income level respond to different promotional offers from different information media. The yardstick is whether they view the offer or they view and also respond accordingly.
 </p>
 
 ## Problem Statement
@@ -123,10 +122,9 @@ This is my implementation of the solution of estimating the behaviour of Star Bu
 
 ## Acknowledgements
 <p align="justify">
-I thank God so much for enabling me to have come this far in this program. It has been long-awaited and so I thank Him.
-I thank the Udacity team for being very responsive with friendly listening ears. I am ever grateful to all of them.
+I thank God so much for enabling me to accomplish this project. It was a tedious task.
 My appreciation also goes to all the sources I got inspiration and information that enabled me to complete this project. The sklearn, numpy and other documentations were very helpful.
-I would like to end by thanking Mosh Hamedani. He is my first python teacher and what I learnt from him gave me a good footing to cope with this data science program. My sincere gratitude goes to all of you my dear teachers.
+I would like to end by thanking Mosh Hamedani. He is my first python teacher and what I learnt from him gave me a good footing to cope with this project. My sincere gratitude goes to all of you my dear teachers.
   
 **Once again, thank you all.**
 </p>
